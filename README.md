@@ -1,0 +1,2 @@
+# sekiBlizzAPI
+Calling Blizzard API
